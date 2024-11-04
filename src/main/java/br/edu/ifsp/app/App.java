@@ -1,10 +1,7 @@
 package br.edu.ifsp.app;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
-import br.edu.ifsp.model.Triangulo;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
